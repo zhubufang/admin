@@ -10,7 +10,7 @@
   "dependencies": {
     "@tinymce/tinymce-vue": "^3.0.1",
     "awe-dnd": "^0.3.4",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-polyfill": "^6.26.0",
     "core-js": "^2.6.5",
     "echarts": "^4.2.1",
