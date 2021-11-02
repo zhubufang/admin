@@ -16,7 +16,7 @@
     "echarts": "^4.2.1",
     "element-ui": "^2.4.5",
     "js-md5": "^0.7.3",
-    "tinymce": "^5.0.16",
+    "tinymce": "^5.10.0",
     "vue": "^2.6.10",
     "vue-cookies": "^1.7.0",
     "vue-router": "^3.0.7",
